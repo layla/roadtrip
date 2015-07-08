@@ -1,9 +1,9 @@
-# roadtrip
+# Roadtrip
 
 Roadtrip to Italy and back
 
 
-## requirements
+## Requirements
 
 - [ ] 1x Tent
 - [ ] 2x Sleeping bag
@@ -16,3 +16,11 @@ Roadtrip to Italy and back
 - [ ] Leatherman
 - [ ] Tools
 - [ ] H
+
+## Product candidates
+
+### Tent
+http://www.decathlon.de/zelt-arpenaz-2-fur-2-personen-grun--id_8293539.html
+
+### Sleeping bag
+http://www.decathlon.de/trekking-schlafsack-forclaz-15-orange--id_8329008.html
